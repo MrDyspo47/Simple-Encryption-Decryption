@@ -1,5 +1,8 @@
 # CaneCryption
 
+My Own Very Simple Text Encryption/Decryption Program.  
+
+
 ## How to Encrypt?
 
 - If you want to encrypt your message, make sure you input "E", "e", or even the word "encrypt" when prompted with the question "Do you want to Encrypt or decrypt?".
