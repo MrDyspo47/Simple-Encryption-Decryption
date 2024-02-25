@@ -1,6 +1,6 @@
 # Simple Encryption/Decryption
 
-My Own Very Simple Text Encryption/Decryption Program.  
+My Own Very Simple Text Encryption/Decryption Program Using A Very Bad Algorithm.
 
 
 ## How to Encrypt?
