@@ -1,4 +1,4 @@
-# CaneCryption
+# Simple Encryption/Decryption
 
 My Own Very Simple Text Encryption/Decryption Program.  
 
